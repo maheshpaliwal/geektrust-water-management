@@ -1,0 +1,16 @@
+{
+    "name": "water-management",
+    "version": "1.0.0",
+    "description": "Water Management",
+    "main": "geektrust.js",
+    "scripts": {
+        "start": "node geektrust.js",
+        "test": "mocha"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.2.0",
+        "nyc": "^15.1.0"
+    }
+}
